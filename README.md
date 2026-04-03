@@ -4,6 +4,9 @@
 ### Backend Engineer · C#/.NET · AI/RAG Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandargrozdanovski/)
+[![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:aleksandar.grozdanovski@protonmail.com)
+[![Location](https://img.shields.io/badge/Skopje%20→%20Berlin-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Berlin)
+[![Visa](https://img.shields.io/badge/Open%20to%20Blue%20Card%20Sponsorship-FF6B35?style=for-the-badge&logo=passport&logoColor=white)](#)
 
 </div>
 
@@ -11,9 +14,9 @@
 
 ## 🧠 About Me
 
-Backend engineer with **5+ years** building enterprise .NET systems — from 
-industrial MES and telecom platforms to AI-powered knowledge pipelines. 
-Currently deepening my architecture skills and building a RAG platform in C#.
+Backend engineer with **5+ years** building enterprise .NET systems — from industrial MES and telecom platforms to AI-powered knowledge pipelines. Currently deepening my architecture skills and building a RAG platform in C#.
+
+📍 Based in **Skopje** · Targeting **Senior Backend roles in Berlin** · Open to **EU Blue Card sponsorship**
 
 ---
 
@@ -21,7 +24,7 @@ Currently deepening my architecture skills and building a RAG platform in C#.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🧬 **Engram** *(coming soon)* | Multi-tenant RAG knowledge management platform | C# · Clean Architecture · PostgreSQL + pgvector · Ollama |
+| 🧬 **Engram** | Multi-tenant RAG knowledge management platform | C# · Clean Architecture · PostgreSQL + pgvector · Ollama |
 
 ---
 
@@ -36,15 +39,43 @@ Currently deepening my architecture skills and building a RAG platform in C#.
 
 ## 🛠️ Core Stack
 
+**Languages & Frameworks**
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**AI / RAG**
+
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+**Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Infrastructure**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <i>Currently exploring the intersection of C#/.NET and AI/RAG systems.</i>
+
+![Aleksandar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleksandar-grozdanovski&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandar-grozdanovski&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+  <i>Currently exploring the intersection of C#/.NET and AI/RAG systems.</i><br/>
+  <i>📬 Open to Senior Backend / .NET + AI opportunities in Berlin 🇩🇪 · EU Blue Card sponsorship welcome</i>
 </div>
