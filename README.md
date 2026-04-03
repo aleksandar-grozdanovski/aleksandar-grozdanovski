@@ -1,88 +1,96 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:239120&height=120&section=header&text=Aleksandar%20Grozdanovski&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Backend%20Engineer%20%C2%B7%20C%23%2F.NET%20%C2%B7%20AI%2FRAG%20Systems&descFontSize=16&descAlignY=70&descFontColor=ffffffcc" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&text=Aleksandar%20Grozdanovski&fontSize=38&fontColor=58a6ff&fontAlignY=40&desc=Building%20intelligent%20systems%20with%20C%23%20%26%20.NET&descFontSize=15&descAlignY=62&descFontColor=8b949e&animation=fadeIn" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandargrozdanovski/)
-[![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:aleksandar.grozdanovski@protonmail.com)
-[![Location](https://img.shields.io/badge/Skopje%20→%20Berlin-gray?style=flat-square&logo=google-maps&logoColor=white)](#)
-[![Blue Card](https://img.shields.io/badge/Open%20to%20EU%20Blue%20Card-FF6B35?style=flat-square&logoColor=white)](#)
+<br/>
+
+```
+  ██████╗ █████╗  ██████╗██╗  ██╗███████╗███╗   ██╗██████╗
+  ██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝████╗  ██║██╔══██╗
+  ██████╔╝███████║██║     █████╔╝ █████╗  ██╔██╗ ██║██║  ██║
+  ██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██║╚██╗██║██║  ██║
+  ██████╔╝██║  ██║╚██████╗██║  ██╗███████╗██║ ╚████║██████╔╝
+  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Backend+Engineer+%7C+C%23+%2F+.NET+%7C+AI%2FRAG+Systems;Building+intelligent+knowledge+systems+in+Berlin+%F0%9F%87%A9%F0%9F%87%AA" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandargrozdanovski/)
+[![Email](https://img.shields.io/badge/-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:aleksandar.grozdanovski@protonmail.com)
+[![Blue Card](https://img.shields.io/badge/-Open%20to%20EU%20Blue%20Card-FF6B35?style=for-the-badge&logo=europeanunion&logoColor=white)](#)
 
 </div>
 
 <br/>
 
-## `$ whoami`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-> Backend engineer with **5+ years** building enterprise .NET systems — from industrial MES and telecom platforms to AI-powered knowledge pipelines. Currently deepening my architecture skills and building a RAG platform in C#.
->
-> 📍 Based in **Skopje** · Targeting **Senior Backend roles in Berlin** · Open to **EU Blue Card sponsorship**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-<br/>
+```csharp
+public class Aleksandar : BackendEngineer
+{
+    public string Location   => "Skopje 🇲🇰  →  Berlin 🇩🇪";
+    public string Focus      => "Senior .NET + AI/RAG roles";
+    public string Visa       => "EU Blue Card sponsorship welcome";
+    public int    YearsExp   => 5;
 
-## `$ ls projects/`
+    public string[] CurrentlyBuilding => new[]
+    {
+        "🧬 Engram — Multi-tenant RAG knowledge platform",
+    };
 
-<table>
-  <tr>
-    <td width="50px" align="center">🧬</td>
-    <td><strong>Engram</strong></td>
-    <td>Multi-tenant RAG knowledge management platform</td>
-    <td><code>C#</code> <code>Clean Architecture</code> <code>PostgreSQL</code> <code>pgvector</code> <code>Ollama</code></td>
-  </tr>
-</table>
+    public string[] Superpowers => new[]
+    {
+        "Clean Architecture & DDD",
+        "RAG pipelines (Azure OpenAI + pgvector)",
+        ".NET 6 → 9 enterprise migrations",
+        "International team collaboration",
+    };
+}
+```
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## `$ cat experience.md`
-
-| | |
-|---|---|
-| 🏭 | Enterprise .NET: industrial **MES** (Krones), **telecom** (A1 Bulgaria), **AI chatbots** |
-| 🤖 | RAG pipelines: **Azure OpenAI**, **Azure AI Search**, template indexing & chunking |
-| ⬆️ | .NET **6 → 8 → 9** migrations in production codebases |
-| 🌍 | International teams: German, Swiss, Bulgarian, and UAE stakeholders |
-
-<br/>
-
-## `$ tech --list`
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
 
 <div align="center">
 
-**Languages & Frameworks**&nbsp;&nbsp;
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-**AI / RAG**&nbsp;&nbsp;
-![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-
-**Databases**&nbsp;&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Infrastructure**&nbsp;&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## `$ git log --stats`
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Aleksandar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleksandar-grozdanovski&show_icons=true&theme=transparent&hide_border=true&title_color=512BD4&icon_color=239120&text_color=333333&ring_color=512BD4)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandar-grozdanovski&layout=compact&theme=transparent&hide_border=true&title_color=512BD4&text_color=333333)
+<img src="https://github-readme-stats.vercel.app/api?username=aleksandar-grozdanovski&show_icons=true&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandar-grozdanovski&layout=compact&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff" height="165"/>
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aleksandar-grozdanovski&theme=github-dark-blue&hide_border=true&border_radius=15&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff)
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:239120,100:512BD4&height=80&section=footer" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <sub>📬 Open to Senior Backend / .NET + AI opportunities in Berlin 🇩🇪 · EU Blue Card sponsorship welcome</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0d1117&height=100&section=footer&text=Let's%20build%20something%20amazing&fontSize=20&fontColor=58a6ff&fontAlignY=65"/>
+
 </div>
