@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&text=Aleksandar%20Grozdanovski&fontSize=38&fontColor=58a6ff&fontAlignY=40&desc=Building%20intelligent%20systems%20with%20C%23%20%26%20.NET&descFontSize=15&descAlignY=62&descFontColor=8b949e&animation=fadeIn" />
+![banner](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&text=Aleksandar%20Grozdanovski&fontSize=38&fontColor=58a6ff&fontAlignY=40&desc=Building%20intelligent%20systems%20with%20C%23%20.NET&descFontSize=15&descAlignY=62&descFontColor=8b949e&animation=fadeIn)
 
 <br/>
 
 ```
-  ██████╗ █████╗  ██████╗██╗  ██╗███████╗███╗   ██╗██████╗
+  ██████╗  █████╗  ██████╗██╗  ██╗███████╗███╗   ██╗██████╗
   ██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝████╗  ██║██╔══██╗
   ██████╔╝███████║██║     █████╔╝ █████╗  ██╔██╗ ██║██║  ██║
   ██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██║╚██╗██║██║  ██║
@@ -13,7 +13,7 @@
   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Backend+Engineer+%7C+C%23+%2F+.NET+%7C+AI%2FRAG+Systems;Building+intelligent+knowledge+systems+in+Berlin+%F0%9F%87%A9%F0%9F%87%AA" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Backend+Engineer+%7C+C%23+%2F+.NET+%7C+AI%2FRAG+Systems;Building+intelligent+knowledge+systems+in+Berlin+%F0%9F%87%A9%F0%9F%87%AA)
 
 <br/>
 
@@ -32,21 +32,21 @@
 ```csharp
 public class Aleksandar : BackendEngineer
 {
-    public string Location   => "Skopje 🇲🇰  →  Berlin 🇩🇪";
+    public string Location   => "Skopje → Berlin";
     public string Focus      => "Senior .NET + AI/RAG roles";
     public string Visa       => "EU Blue Card sponsorship welcome";
     public int    YearsExp   => 5;
 
     public string[] CurrentlyBuilding => new[]
     {
-        "🧬 Engram — Multi-tenant RAG knowledge platform",
+        "Engram - Multi-tenant RAG knowledge platform",
     };
 
     public string[] Superpowers => new[]
     {
         "Clean Architecture & DDD",
         "RAG pipelines (Azure OpenAI + pgvector)",
-        ".NET 6 → 9 enterprise migrations",
+        ".NET 6 to 9 enterprise migrations",
         "International team collaboration",
     };
 }
@@ -54,7 +54,7 @@ public class Aleksandar : BackendEngineer
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Stack
 
 <div align="center">
 
@@ -78,8 +78,8 @@ public class Aleksandar : BackendEngineer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aleksandar-grozdanovski&show_icons=true&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandar-grozdanovski&layout=compact&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff" height="165"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleksandar-grozdanovski&show_icons=true&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandar-grozdanovski&layout=compact&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff)
 
 <br/>
 
@@ -91,6 +91,6 @@ public class Aleksandar : BackendEngineer
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0d1117&height=100&section=footer&text=Let's%20build%20something%20amazing&fontSize=20&fontColor=58a6ff&fontAlignY=65"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0d1117&height=100&section=footer&text=Let%27s%20build%20something%20amazing&fontSize=20&fontColor=58a6ff&fontAlignY=65)
 
 </div>
