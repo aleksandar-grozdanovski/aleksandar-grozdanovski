@@ -32,7 +32,7 @@
 ```csharp
 public class Aleksandar : BackendEngineer
 {
-    public string Location   => "Skopje → Berlin";
+    public string Location   => "Skopje -> Berlin";
     public string Focus      => "Senior .NET + AI/RAG roles";
     public string Visa       => "EU Blue Card sponsorship welcome";
     public int    YearsExp   => 5;
@@ -78,8 +78,10 @@ public class Aleksandar : BackendEngineer
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleksandar-grozdanovski&show_icons=true&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandar-grozdanovski&layout=compact&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff)
+<a href="https://github.com/aleksandar-grozdanovski">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aleksandar-grozdanovski&show_icons=true&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandar-grozdanovski&layout=compact&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&cache_seconds=1800&langs_count=8" alt="Top Languages" />
+</a>
 
 <br/>
 
