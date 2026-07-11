@@ -33,7 +33,7 @@ stack built from scratch at home.
 
 - 🏭 Enterprise .NET: industrial **MES** (Krones), **telecom** (A1 Bulgaria), **AI document platforms**
 - 🤖 RAG pipelines: **Azure OpenAI**, **Azure AI Search**, document indexing & chunking
-- 📊 Full-stack delivery: custom **Grafana plugins in React + TypeScript** for live production analytics
+- 📊 Full-stack delivery: custom **Grafana plugins in React + TypeScript** for production analytics on machine telemetry data
 - ⬆️ .NET migrations in production codebases: **4.8 → 6** (MES platform), up to **.NET 10** (AI platform)
 - 🌍 International teams: German, Czech, Bulgarian, Serbian, and Finnish stakeholders
 
